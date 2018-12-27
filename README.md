@@ -1,1 +1,1 @@
-We created a HTTP server using pure Javascript functions
+In this project I created a HTTP server using Javascript functions
